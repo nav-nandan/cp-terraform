@@ -1,2 +1,2 @@
 # cp-terraform
-terraform scripts to deploy resources for confluent platform deployment
+terraform scripts to deploy resources for confluent platform
